@@ -14,6 +14,10 @@ public class Ex01 {
 
         area = b * a;
 
+        //System.out.println(area);
+        //System.out.println("A área do retângulo é: " + area);
+        //System.out.printf("A área do retângulo é: %d", area);
+
         System.out.printf("A área do retângulo é: %d, pois é o produto da base %d e da altura %d", area, b, a);
 
         sc.close();
