@@ -1,3 +1,5 @@
+package aula3;
+
 public class Ex24 {
     public static void main(String[] args) {
         int a, b, f;

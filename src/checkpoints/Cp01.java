@@ -1,3 +1,5 @@
+package checkpoints;
+
 import java.util.Scanner;
 
 public class Cp01 {
