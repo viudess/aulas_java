@@ -1,7 +1,6 @@
 package aula4.Ex39;
 
 public class Produto39 {
-
     private int codigo;
     private String nome;
     private double preco;
@@ -39,7 +38,6 @@ public class Produto39 {
 
     }
 
-    // Construtor: Define como o objeto deve ser criado
     public Produto39(int codigo, String nome, double preco) {
         this.codigo = codigo;
         this.nome = nome;
